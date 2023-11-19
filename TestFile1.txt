@@ -1,5 +1,11 @@
 Hello, 
 
+<<<<<<< HEAD
+this is my test. Learning version 
+
+Is this file changing?
+=======
 this is my test. Learning version control. 
 
 Updating the file. 
+>>>>>>> Test2
