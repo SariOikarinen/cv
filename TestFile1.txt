@@ -9,3 +9,5 @@ this is my test. Learning version control.
 
 Updating the file. 
 >>>>>>> Test2
+
+Test3
